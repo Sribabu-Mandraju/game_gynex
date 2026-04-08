@@ -1,0 +1,33 @@
+{
+    "boys": [
+      {"id": 1, "name": "BARAM KOMALESWARA REDDY"},
+      {"id": 2, "name": "YERRA SHANMUKH SATYA SAI"},
+      {"id": 3, "name": "GOLI HEMANTH"},
+      {"id": 4, "name": "KANAKALA LAKSHMANA RAO"},
+      {"id": 5, "name": "GEDDAVALASA RAM SAI ROHITH"},
+      {"id": 6, "name": "PULI SYAM VENKATA DATTU BABU"},
+      {"id": 7, "name": "BURIDI SRINU"},
+      {"id": 8, "name": "KAKULA ROHITH"},
+      {"id": 9, "name": "KOTTANA DIWAKAR"},
+      {"id": 10, "name": "YADAVALLI SAI SRAVAN"},
+      {"id": 11, "name": "MENTREDDI BALAVARDHAN"},
+      {"id": 12, "name": "YALAMALA MOULI"},
+      {"id": 13, "name": "IKKURTHI UMA MANIKANTA"},
+      {"id": 14, "name": "TAMMINAINA PARDHASARADHI"},
+      {"id": 15, "name": "SHAIK IMRAN BASHA"},
+      {"id": 16, "name": "GAMPA NAVANEETH"},
+      {"id": 17, "name": "KARRI MAHESH"},
+      {"id": 18, "name": "MANDRAJU SRI BABU"},
+      {"id": 19, "name": "CHIMIRALA NAGA SIVA SAI PRASANTH"},
+      {"id": 20, "name": "SURU YUVARAJ"},
+      {"id": 21, "name": "PULAPAKURA SRI MANIKANTA"},
+      {"id": 22, "name": "GUNDA VENKATA HARI KOWSHIK"},
+      {"id": 23, "name": "DONGA GANESH"},
+      {"id": 24, "name": "DHARANEESWAR REDDY AVULA"},
+      {"id": 25, "name": "MUDU GOPI"},
+      {"id": 26, "name": "KAMPA DEVA SELVA RAJU"},
+      {"id": 27, "name": "TIRLANGI RAKESH"},
+      {"id": 28, "name": "RAMAVATH MALLIKARJUNA NAIK"},
+      {"id": 29, "name": "BHUKYA MOTHILAL NAIK"}
+    ]
+  }
